@@ -1,3 +1,3 @@
 # GANN-Calculator
-<h3>calculates GANN (stock trading algo/logic/technique)</h3>
+<b>calculates GANN (stock trading algo/logic/technique)</b>
 ![Screenshot](firefox_SXHsBNIFxr.jpg)
